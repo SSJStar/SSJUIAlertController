@@ -1,5 +1,5 @@
 # SSJUIAlertController
-给UIAlertController扩展下类，方便使用
+给UIAlertController扩展下类，方便使用 </br>
 直接把这个文件夹拖到工程里，在使用的时候不要忘记引入喔～：</br>
 #import "UIAlertController+SSJCategory.h" </br> </br>
 
